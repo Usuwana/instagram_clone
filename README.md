@@ -1,6 +1,11 @@
 # instagram_clone
 
-A new Flutter project.
+A clone of the instagram app. The home page and the search page are done. Everything else is still a work in progress.
+
+## Screenshots
+
+<img src="https://github.com/Usuwana/instagram_clone/tree/main/assets/home.jpeg" width="250" height="500"> <img src="https://github.com/Usuwana/Tinder-for-Movies/blob/main/assets/demo/two.png" width="250" height="500">
+<img src="https://github.com/Usuwana/instagram_clone/tree/main/assets/search.jpeg" width="250" height="500"> <img src="https://github.com/Usuwana/Tinder-for-Movies/blob/main/assets/demo/four.png" width="250" height="500">
 
 ## Getting Started
 
