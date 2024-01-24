@@ -4,7 +4,7 @@ A clone of the instagram app. The home page and the search page are done. Everyt
 
 ## Screenshots
 
-<img src="https://github.com/Usuwana/instagram_clone/tree/main/assets/home.png" width="250" height="500"> <img src="https://github.com/Usuwana/instagram_clone/tree/main/assets/search.png" width="250" height="500">
+<img src="https://github.com/Usuwana/instagram_clone/tree/main/assets/home.png" width="250" height="500"/> <img src="https://github.com/Usuwana/instagram_clone/tree/main/assets/search.png" width="250" height="500"/>
 
 
 ## Getting Started
